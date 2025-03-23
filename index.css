@@ -1,0 +1,66 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-image:url('lb.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+ /* Replace 'background.jpg'
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+}
+
+/* Header styling */
+h1 {
+    font-family: pacifico, cursive;
+    color: lightblue;
+    padding: 1rem 0;
+    margin: 0;
+    font-size-transform: uppercase;
+}
+
+/* Image styling */
+img {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border: 3px solid #ddd;
+    border-radius: 50%;
+    margin: 1rem auto;
+    display: block;
+}
+
+/* Paragraph and label styling */
+p {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0.5rem 0;
+    font-size: 1rem;
+    text-align: justify;
+    font-family: carolyna, cursive;
+    color: darkblue;
+}
+
+b {
+    color: lightblue;
+    font-family: pacifico, cursive;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    
+}
+
+/* Section headers */
+h2 {
+    margin-top: 2rem;
+    color: blue;
+    text-align: justify;
+    font-family: lobster, cursive;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    
+    /* Footer styles */
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: gray;
+            color: white;
+}
